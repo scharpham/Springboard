@@ -1,7 +1,7 @@
-Capstoneii
+Capstone II
 ==============================
 
-Project for Springboard Data Science Boot Camp
+Capstone 2 for Springboard Data Science Boot Camp
 
 Project Organization
 ------------
