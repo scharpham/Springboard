@@ -1,6 +1,6 @@
 Capstone II
 
-This project was completed with the goal of predicting vehicular accident severity, based on conditions that exist before or after an accident.
+This project was completed with the goal of predicting vehicular accident severity, based on conditions that exist before or during an accident.
 Data was obtained from Kaggle via UK gov. 
 ==============================
 
