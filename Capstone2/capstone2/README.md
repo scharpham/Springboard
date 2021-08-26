@@ -1,7 +1,6 @@
 Capstone II
 
-This project was completed with the goal of predicting vehicular accident severity, based on conditions that exist before or during an accident.
-Data was obtained from Kaggle via UK gov. 
+The problem to solve, is to determine whether, based on conditions that existed before a vehicular accident(driver, road, weather, time of day etc.), if it is possible to predict the resulting severity-level of each crash. Crashes in this dataset had been attributed one of three different severity scores,  “Slight”, “Severe”, or “Fatal”.  The potential use cases for solving such a problem could be substantial, from car manufacturers, to insurance companies, and governmental emergency response.  The dataset included accidents from the years 2004 until 2016, and was obtained from Kaggle, where its original data source had been the UK government. 
 ==============================
 
 Capstone 2 for Springboard Data Science Boot Camp
