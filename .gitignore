@@ -13,3 +13,280 @@ Capstone2-exploration/NHTSA Datset Exploration.ipynb
 Capstone2-exploration/NHTSA/CEvents.CSV
 Capstone2-exploration/WA_Fn-UseC_-HR-Employee-Attrition.csv
 Capstone2-exploration/WA_Fn-UseC_-HR-Employee-Attrition.csv
+.ipynb_checkpoints/PySpark Demo-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Capstone2/capstone2/notebooks/capstonewrangled.csv
+Case Study - Featuretools/featuretools-master/data/churn/features.txt
+Case Study - Featuretools/featuretools-master/data/logs.csv
+Case Study - Featuretools/featuretools-master/data/members.csv
+Case Study - Featuretools/featuretools-master/data/MS-31_labels.csv
+Case Study - Featuretools/featuretools-master/data/transactions.csv
+Case Study - Featuretools/featuretools-master/Feature Engineering.ipynb
+Case Study - Featuretools/featuretools-master/images/AutomatedProcess.png
+Case Study - Featuretools/featuretools-master/images/aws_status.png
+Case Study - Featuretools/featuretools-master/images/Churn Defined.png
+Case Study - Featuretools/featuretools-master/images/Churn Parameters.png
+Case Study - Featuretools/featuretools-master/images/churn_definition.png
+Case Study - Featuretools/featuretools-master/images/churn_definition_max.png
+Case Study - Featuretools/featuretools-master/images/completed_labeling.PNG
+Case Study - Featuretools/featuretools-master/images/confusion_matrix_rf.png
+Case Study - Featuretools/featuretools-master/images/cover_modeling.png
+Case Study - Featuretools/featuretools-master/images/cover_overview.png
+Case Study - Featuretools/featuretools-master/images/cover_prediction.png
+Case Study - Featuretools/featuretools-master/images/cutoff_times_single.png
+Case Study - Featuretools/featuretools-master/images/data_schema.png
+Case Study - Featuretools/featuretools-master/images/distributed_architecture.png
+Case Study - Featuretools/featuretools-master/images/example_feature_dist.png
+Case Study - Featuretools/featuretools-master/images/example_features.png
+Case Study - Featuretools/featuretools-master/images/example_predictions.PNG
+Case Study - Featuretools/featuretools-master/images/executors.png
+Case Study - Featuretools/featuretools-master/images/feature_engineering_cover.png
+Case Study - Featuretools/featuretools-master/images/feature_engineering_process.png
+Case Study - Featuretools/featuretools-master/images/FeatureLabs.png
+Case Study - Featuretools/featuretools-master/images/featuretools-logo.png
+Case Study - Featuretools/featuretools-master/images/final_metrics.png
+Case Study - Featuretools/featuretools-master/images/Framework - Feature Engineering.png
+Case Study - Featuretools/featuretools-master/images/Framework - Modeling.png
+Case Study - Featuretools/featuretools-master/images/Framework-PredictionEngineering.png
+Case Study - Featuretools/featuretools-master/images/Framework.png
+Case Study - Featuretools/featuretools-master/images/label_times_example.png
+Case Study - Featuretools/featuretools-master/images/label_times_table.png
+Case Study - Featuretools/featuretools-master/images/labeling_application.PNG
+Case Study - Featuretools/featuretools-master/images/labeling_event_timeline.PNG
+Case Study - Featuretools/featuretools-master/images/labeling_task_info.PNG
+Case Study - Featuretools/featuretools-master/images/lead_time_performance.png
+Case Study - Featuretools/featuretools-master/images/logs_df.PNG
+Case Study - Featuretools/featuretools-master/images/ManualProcess.png
+Case Study - Featuretools/featuretools-master/images/max-primitive.png
+Case Study - Featuretools/featuretools-master/images/max-primitive.svg
+Case Study - Featuretools/featuretools-master/images/members_df.PNG
+Case Study - Featuretools/featuretools-master/images/metrics_three_models.png
+Case Study - Featuretools/featuretools-master/images/modeling_process.png
+Case Study - Featuretools/featuretools-master/images/most_important_rf.png
+Case Study - Featuretools/featuretools-master/images/one_feature_tree.png
+Case Study - Featuretools/featuretools-master/images/overall_framework.png
+Case Study - Featuretools/featuretools-master/images/pandas-logo.png
+Case Study - Featuretools/featuretools-master/images/placeholder_cover.jpeg
+Case Study - Featuretools/featuretools-master/images/pr_curve_tuned.png
+Case Study - Featuretools/featuretools-master/images/precision_recall_rf.png
+Case Study - Featuretools/featuretools-master/images/prediction_engineering_process.png
+Case Study - Featuretools/featuretools-master/images/prediction_table.png
+Case Study - Featuretools/featuretools-master/images/predictions_ecdf.png
+Case Study - Featuretools/featuretools-master/images/ProcessesDiagram.png
+Case Study - Featuretools/featuretools-master/images/spark-logo-trademark.png
+Case Study - Featuretools/featuretools-master/images/spark_cluster.png
+Case Study - Featuretools/featuretools-master/images/spark_cluster2.png
+Case Study - Featuretools/featuretools-master/images/spark_cluster_3_workers.png
+Case Study - Featuretools/featuretools-master/images/spark_cluster_main.png
+Case Study - Featuretools/featuretools-master/images/spark_job.png
+Case Study - Featuretools/featuretools-master/images/spark_single1.png
+Case Study - Featuretools/featuretools-master/images/spark_single_machine.PNG
+Case Study - Featuretools/featuretools-master/images/stages.png
+Case Study - Featuretools/featuretools-master/images/time_since_last.png
+Case Study - Featuretools/featuretools-master/images/time_spent_last_month.png
+Case Study - Featuretools/featuretools-master/images/total_previous_month.png
+Case Study - Featuretools/featuretools-master/images/transactions_df.PNG
+Case Study - Featuretools/featuretools-master/README.md
+Case Study - Featuretools/featuretools-master/requirements.txt
+Case Study - Neural Networks/Ch03/03_03/.ipynb_checkpoints/03_03 Start-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_03/03_03 End.ipynb
+Case Study - Neural Networks/Ch03/03_03/03_03 Start.ipynb
+Case Study - Neural Networks/Ch03/03_03/03_03 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_03/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_03/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_03/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_03/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_03/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_03/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_04/.ipynb_checkpoints/03_04 Start-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_04/03_04 Start.ipynb
+Case Study - Neural Networks/Ch03/03_04/03_04 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_04/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_04/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_04/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_04/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_04/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_04/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_05/03_05 Start.ipynb
+Case Study - Neural Networks/Ch03/03_05/03_05 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_05/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_05/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_05/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_05/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_05/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_05/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_06/.ipynb_checkpoints/03_06 Start-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_06/.ipynb_checkpoints/03_06 Stop-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_06/03_06 Start.ipynb
+Case Study - Neural Networks/Ch03/03_06/03_06 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_06/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_06/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_06/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_06/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_06/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_06/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_07/03_07 Start.ipynb
+Case Study - Neural Networks/Ch03/03_07/03_07 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_07/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_07/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_07/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_07/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_07/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_07/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_08/03_08 Start.ipynb
+Case Study - Neural Networks/Ch03/03_08/03_08 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_08/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_08/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_08/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_08/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_08/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_08/images/spoon.jpeg
+Case Study - Neural Networks/Ch03/03_09/.ipynb_checkpoints/03_09 Start-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_09/.ipynb_checkpoints/03_09 Stop-checkpoint.ipynb
+Case Study - Neural Networks/Ch03/03_09/03_09 Start.ipynb
+Case Study - Neural Networks/Ch03/03_09/03_09 Stop.ipynb
+Case Study - Neural Networks/Ch03/03_09/images/cnn-model.jpg
+Case Study - Neural Networks/Ch03/03_09/images/fly.jpeg
+Case Study - Neural Networks/Ch03/03_09/images/mnist-test.jpg
+Case Study - Neural Networks/Ch03/03_09/images/neural-net.png
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch03/03_09/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch03/03_09/images/spoon.jpeg
+Case Study - Neural Networks/Ch05/05_01/.ipynb_checkpoints/05_01 start-checkpoint.ipynb
+Case Study - Neural Networks/Ch05/05_01/.ipynb_checkpoints/05_01 stop-checkpoint.ipynb
+Case Study - Neural Networks/Ch05/05_01/05_01 start.ipynb
+Case Study - Neural Networks/Ch05/05_01/05_01 stop.ipynb
+Case Study - Neural Networks/Ch05/05_01/images/cnn-model.jpg
+Case Study - Neural Networks/Ch05/05_01/images/fly.jpeg
+Case Study - Neural Networks/Ch05/05_01/images/mnist-test.jpg
+Case Study - Neural Networks/Ch05/05_01/images/neural-net.png
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch05/05_01/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch05/05_01/images/spoon.jpeg
+Case Study - Neural Networks/Ch05/05_02/05_02 Start.ipynb
+Case Study - Neural Networks/Ch05/05_02/05_02 Stop.ipynb
+Case Study - Neural Networks/Ch05/05_02/images/cnn-model.jpg
+Case Study - Neural Networks/Ch05/05_02/images/fly.jpeg
+Case Study - Neural Networks/Ch05/05_02/images/mnist-test.jpg
+Case Study - Neural Networks/Ch05/05_02/images/neural-net.png
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch05/05_02/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch05/05_02/images/spoon.jpeg
+Case Study - Neural Networks/Ch05/05_03/.ipynb_checkpoints/05_03 Start-checkpoint.ipynb
+Case Study - Neural Networks/Ch05/05_03/.ipynb_checkpoints/05_03 Stop-checkpoint.ipynb
+Case Study - Neural Networks/Ch05/05_03/05_03 Start.ipynb
+Case Study - Neural Networks/Ch05/05_03/05_03 Stop.ipynb
+Case Study - Neural Networks/Ch05/05_03/images/cnn-model.jpg
+Case Study - Neural Networks/Ch05/05_03/images/fly.jpeg
+Case Study - Neural Networks/Ch05/05_03/images/mnist-test.jpg
+Case Study - Neural Networks/Ch05/05_03/images/neural-net.png
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/cats/cat.963.jpg
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/cats/cat.995.jpg
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/cats/cat.997.jpg
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/dogs/dog.971.jpg
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/dogs/dog.977.jpg
+Case Study - Neural Networks/Ch05/05_03/images/sample-train/dogs/dog.988.jpg
+Case Study - Neural Networks/Ch05/05_03/images/spoon.jpeg
+Case Study - Neural Networks/Ch05/05_03/weights/cnn-model5.h5
+Case Study - Neural Networks/Ch06/06_02/06_02 Start.ipynb
+Case Study - Neural Networks/Ch06/06_02/06_02 Stop.ipynb
+Case Study - Neural Networks/Ch06/06_02/images/cnn-model.jpg
+Case Study - Neural Networks/Ch06/06_02/images/fly.jpeg
+Case Study - Neural Networks/Ch06/06_02/images/neural-net.png
+Case Study - Neural Networks/Ch06/06_02/images/spoon.jpeg
+Case Study - Neural Networks/Ch07/07_02/data/synset_words.txt
+Case Study - Neural Networks/Ch07/07_02/images/cnn-model.jpg
+Case Study - Neural Networks/Ch07/07_02/images/fly.jpeg
+Case Study - Neural Networks/Ch07/07_02/images/spoon.jpeg
+Case Study - Pyspark/02_01/.ipynb_checkpoints/Lab_environment-checkpoint.ipynb
+Case Study - Pyspark/02_01/Lab_environment.ipynb
+Case Study - Pyspark/02_02/.ipynb_checkpoints/Download_data-checkpoint.ipynb
+Case Study - Pyspark/02_02/Download_data.ipynb
+Case Study - Pyspark/03_03/.ipynb_checkpoints/schemas-checkpoint.ipynb
+Case Study - Pyspark/03_03/schemas.ipynb
+Case Study - Pyspark/03_04/.ipynb_checkpoints/Working_with_columns-checkpoint.ipynb
+Case Study - Pyspark/03_04/Working_with_columns.ipynb
+Case Study - Pyspark/03_05/.ipynb_checkpoints/Working_with_rows-checkpoint.ipynb
+Case Study - Pyspark/03_05/Working_with_rows.ipynb
+Case Study - Pyspark/03_06/.ipynb_checkpoints/Challenge-checkpoint.ipynb
+Case Study - Pyspark/03_06/Challenge.ipynb
+Case Study - Pyspark/03_07/.ipynb_checkpoints/Challenge-checkpoint.ipynb
+Case Study - Pyspark/03_07/Challenge.ipynb
+Case Study - Pyspark/04_01/.ipynb_checkpoints/Built_in_functions-checkpoint.ipynb
+Case Study - Pyspark/04_01/Built_in_functions.ipynb
+Case Study - Pyspark/04_02/.ipynb_checkpoints/Working_with_dates-checkpoint.ipynb
+Case Study - Pyspark/04_02/Working_with_dates.ipynb
+Case Study - Pyspark/04_03/.ipynb_checkpoints/joins-checkpoint.ipynb
+Case Study - Pyspark/04_03/joins.ipynb
+Case Study - Pyspark/04_05/.ipynb_checkpoints/Challenge-checkpoint.ipynb
+Case Study - Pyspark/04_05/Challenge.ipynb
+Case Study - Pyspark/04_06/.ipynb_checkpoints/Challenge-checkpoint.ipynb
+Case Study - Pyspark/04_06/Challenge.ipynb
+Case Study - Pyspark/05_02/.ipynb_checkpoints/RDDs-checkpoint.ipynb
+Case Study - Pyspark/05_02/RDDs.ipynb
+Case Study - Pyspark/Crimes_-_2001_to_Present.csv
+X.Misc Exercise files/10 min to Pandas.ipynb
+X.Misc Exercise files/AppleStore.csv
+X.Misc Exercise files/First Notebook test.ipynb
+X.Misc Exercise files/foo.h5
+X.Misc Exercise files/foo.xlsx
+X.Misc Exercise files/googleplaystore.csv
+X.Misc Exercise files/PART 1, Tier 1 - Sourcing and Loading.ipynb
+X.Misc Exercise files/PART 2, Tier 1 - Cleaning, transforming and visualizing.ipynb
+X.Misc Exercise files/PART 3, Tier 1 - Modeling .ipynb
+X.Misc Exercise files/PART 3, Tier 2 - Modeling.ipynb
+X.Misc Exercise files/PART 3, Tier 3 - Modelling.ipynb
+X.Misc Exercise files/Teir 1 worked.ipynb
+X.Misc Exercise files/Unit 4 Challenge - Steven Harpham.ipynb
+X.Misc Exercise files/Unit 4 Challenge - Tier 1.ipynb
+X.Misc Exercise files/Unit 4 Challenge - Tier 2.ipynb
+X.Misc Exercise files/Unit 4 Challenge - Tier 3.ipynb
+X.Misc Exercise files/worked pandas.ipynb
+X.Misc Exercise files/worked pandas2.ipynb
+X.Misc Exercise files/Worked03_pandas-Copy1.ipynb
+X.Misc Exercise files/Worked03_pandas.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
